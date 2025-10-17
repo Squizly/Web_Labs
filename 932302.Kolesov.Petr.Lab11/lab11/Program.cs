@@ -1,4 +1,4 @@
-using kolesov_lab11.Services;
+using lab11.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

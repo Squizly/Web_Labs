@@ -1,4 +1,4 @@
-﻿namespace kolesov_lab11.Models
+﻿namespace lab11.Models
 {
     public class CalculationModel
     {

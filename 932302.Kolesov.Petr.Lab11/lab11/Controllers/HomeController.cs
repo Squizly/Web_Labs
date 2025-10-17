@@ -1,8 +1,8 @@
-﻿using kolesov_lab11.Models;
+﻿using lab11.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace kolesov_lab11.Controllers
+namespace lab11.Controllers
 {
     public class HomeController : Controller
     {

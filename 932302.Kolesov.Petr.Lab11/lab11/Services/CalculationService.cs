@@ -1,4 +1,4 @@
-﻿namespace kolesov_lab11.Services
+﻿namespace lab11.Services
 {
     public interface CalculationService
     {
