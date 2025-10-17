@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "kolesov_lab12": {
+    "lab12": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

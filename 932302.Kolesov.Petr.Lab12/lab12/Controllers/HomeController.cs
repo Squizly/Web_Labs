@@ -1,10 +1,10 @@
-﻿using kolesov_lab12.Models;
-using kolesov_lab12.Services;
+﻿using lab12.Models;
+using lab12.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Reflection.Metadata.Ecma335;
 
-namespace kolesov_lab12.Controllers
+namespace lab12.Controllers
 {
     public class HomeController : Controller
     {

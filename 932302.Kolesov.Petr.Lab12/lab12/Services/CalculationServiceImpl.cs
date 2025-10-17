@@ -1,6 +1,6 @@
-﻿using kolesov_lab12.Models;
+﻿using lab12.Models;
 
-namespace kolesov_lab12.Services
+namespace lab12.Services
 {
     public class CalculationServiceImpl : CalculationService
     {

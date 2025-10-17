@@ -1,4 +1,4 @@
-namespace kolesov_lab12.Models
+namespace lab12.Models
 {
     public class ErrorViewModel
     {

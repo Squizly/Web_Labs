@@ -1,4 +1,4 @@
-using kolesov_lab12.Services;
+using lab12.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
